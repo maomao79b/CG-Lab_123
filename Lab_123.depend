@@ -1,0 +1,7 @@
+# depslib dependency file v1.0
+1670492174 source:d:\63011212014\lab_123\main.c
+	<gl\gl.h>
+	<gl\glut.h>
+	<math.h>
+	<windows.h>
+
